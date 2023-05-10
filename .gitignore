@@ -1,0 +1,16 @@
+# Java build artifacts
+/target/
+/bin/
+/build/
+/classes/
+
+# IDE-specific files
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+
+# MySQL files
+*.sql
